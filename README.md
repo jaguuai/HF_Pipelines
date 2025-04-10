@@ -73,11 +73,3 @@ For your Hugging Face token, grant only these permissions:
 
 Hugging Face `pipeline` is a powerful tool to integrate advanced models within seconds. It is essential for rapid prototyping, experimentation, and kickstarting projects with minimal setup.  
 
----
-
-### Usage Instructions:
-1. Copy the content above.  
-2. Paste it directly into your `README.md` file.  
-3. All tables, headers, and code blocks will render correctly on Markdown-supported platforms (GitHub, GitLab, etc.).  
-
-**Note:** For optimal results, ensure the model names and paths are correctly referenced from the [Hugging Face Model Hub](https://huggingface.co/models).  
